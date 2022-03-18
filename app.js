@@ -1,7 +1,7 @@
 /*
 Author: Abhi Balreddygari
 
-Modified  On: 11/03/2021 by Milad Nemati
+Modified On: 11/03/2021 by Milad Nemati
 */
 
 const API_KEY = "AIzaSyCKCnbqUaKGtF14Hygd5Hfczk5etGUHnWE"
